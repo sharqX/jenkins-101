@@ -4,4 +4,4 @@ def main(a):
         print("* ", end="")
       print()
 
-main(16)
+main(5)
